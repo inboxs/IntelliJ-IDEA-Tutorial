@@ -1,10 +1,19 @@
-# 重要说明，看三遍
+## 团队 DevOps 方案参考
+
+<a target="_blank" href="https://coding.net/?utm_source=judasn">
+<img id="judasn" src="https://upload-images.jianshu.io/upload_images/12159-e3279861ff8655c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
+</a>
 
 ## 特别事件
 
-- IntelliJ IDEA 2018.1 发布（2018-03-28）
+- IntelliJ IDEA 2019.1 发布（2019-03-28-撒花）
+- IntelliJ IDEA 2018.3 发布（2018-11-21）
+- IntelliJ IDEA 2018.2 发布（2018-07-25）
 	- 新特性列表：<http://www.jetbrains.com/idea/whatsnew>
 	- 下载：<http://www.jetbrains.com/idea/download/>
+- 实体书
+	- 有在计划出实体书，并且空闲时已经在潦草写点，目前已经写了 25%，争取 2019 年秋季官网出大版本前完成第一版本。（不排除工作上有事情）
+	- 计算机类书籍销量都很小（总销量能 1W 册算是牛逼了），赚不了什么钱，而且容易 PDF，这是无法阻拦的。写实体书只是因为想白纸黑字证明自己存在过，即使哪天突然消失了也能有人会记得我。
 
 
 ## 介绍(Introduce)
@@ -15,7 +24,7 @@
 	- [PhpStorm 2016、2017、2018 版本](https://www.jetbrains.com/phpstorm)
 	- [PyCharm 2016、2017、2018 版本](https://www.jetbrains.com/pycharm)
 	- [RubyMine 2016、2017、2018 版本](https://www.jetbrains.com/ruby)
-	- [Gogland 2017、2018 版本](https://www.jetbrains.com/go)
+	- [Goland 2017、2018 版本](https://www.jetbrains.com/go)
 	- [CLion 2017、2018 版本](https://www.jetbrains.com/clion)
 	- [DataGrip 2016、2017、2018 版本](https://www.jetbrains.com/datagrip)
 	- [Android Studio 任何版本](https://developer.android.com/studio/index.html?hl=zh-cn)
@@ -76,22 +85,21 @@
 	- [数据库管理工具](database-introduce.md)
 	- [远程调试介绍（Tomcat + Jetty）](remote-debugging.md)
 - **高级设置介绍**
-	- [IntelliJ IDEA 常用细节设置-1](settings-introduce-1.md)
-	- [IntelliJ IDEA 常用细节设置-2](settings-introduce-2.md)
-	- [IntelliJ IDEA 常用细节设置-3](settings-introduce-3.md)
-	- [IntelliJ IDEA 常用细节设置-4](settings-introduce-4.md)
+	- [IntelliJ IDEA 推荐设置（新人重点）](settings-recommend-introduce.md)
+	- [IntelliJ IDEA 常用细节-1](settings-introduce-1.md)
+	- [IntelliJ IDEA 常用细节-2](settings-introduce-2.md)
+	- [IntelliJ IDEA 常用细节-3](settings-introduce-3.md)
+	- [IntelliJ IDEA 常用细节-4](settings-introduce-4.md)
 - **插件推荐、插件开发**
 	- [插件相关功能设置、插件推荐](plugins-settings.md)
 	- [Java 热部署插件 JRebel 安装及使用](jrebel-setup.md)
 	- [插件开发视频教程](plugins-develop.md)
 - **基于 IntelliJ IDEA 下的 demo 尝试**
-	- [SpringBoot-Simple-Demo](https://github.com/judasn/SpringBoot-Simple-Demo-From-YouMeek)
-	- [SpringBoot-Kafka-Simple-Demo](https://github.com/judasn/SpringBoot-Kafka-From-YouMeek)
+	- [Maven 的单模块 / 多模块 Spring MVC + Spring + Mybatis 项目（新人重点）](maven-java-web-project-introduce.md)
+	- [Maven 的单模块 Spring MVC + Spring + Spring Data JPA 项目](maven-java-web-project-introduce2.md)
+	- [Maven 的单模块 Spring Boot 项目](https://github.com/judasn/SpringBoot-Simple-Demo-From-YouMeek)
 	- [Hello World 的 Java 项目创建和项目配置文件](project-settings.md)
 	- [基于 Eclipse 的 Java Web 项目在 IntelliJ IDEA 下的环境搭建](eclipse-java-web-project-introduce.md)
-	- [Maven 的单模块 / 多模块 Spring MVC + Spring + Mybatis 项目（重点）](maven-java-web-project-introduce.md)
-	- [Maven 的单模块 Spring MVC + Spring + Spring Data JPA 项目](maven-java-web-project-introduce2.md)
-	- [Maven 的单模块 Spring Boot 项目](maven-java-web-project-introduce3.md)
 - **其他（新用户必看）**
 	- [常见各类文件类型图标](file-symbols-introduce.md)
 	- [本教程总结](this-tutorial-the-end.md)
@@ -155,4 +163,5 @@
 
 ## AD
 
-- [推荐：程序员的个性化网址导航：GitNavi.com](http://www.gitnavi.com)
+- [推荐：程序员的个性化网址导航：GitNavi.com](http://www.gitnavi.com/u/judasn/)
+- [适合后端开发者的前端 React-Admin](https://github.com/satan31415/umi-admin)
